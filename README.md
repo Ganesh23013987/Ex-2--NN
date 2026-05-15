@@ -143,7 +143,7 @@ plt.show()
 
 
 
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/50101897-0e9c-469b-891c-07dfbf23888a" />
+<img width="981" height="590" alt="image" src="https://github.com/user-attachments/assets/345df544-488c-4a3a-8d57-14b9a890e29d" />
 
 
 
