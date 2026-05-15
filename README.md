@@ -139,7 +139,7 @@ plt.show()
 
 # OUTPUT:
 
-<img width="711" height="647" alt="image" src="https://github.com/user-attachments/assets/7cbaf89a-b8ad-4b58-b2eb-db2b8e041a37" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/7cbaf89a-b8ad-4b58-b2eb-db2b8e041a37" />
 
 
 
