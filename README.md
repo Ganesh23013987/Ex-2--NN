@@ -1,6 +1,6 @@
 <H3>Name : GANESH D</H3>
 <H3>Register no.: 212223240035</H3>
-<H3>Date : 15-05-2026</H3>
+<H3>Date : 29-04-2026</H3>
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
